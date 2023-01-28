@@ -1,3 +1,3 @@
 <?php
-echo "salom kodim";
+echo "salom dunyo";
 ?>
